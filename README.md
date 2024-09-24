@@ -8,3 +8,4 @@
 * https://github.com/horovod
 * https://github.com/wizi4d/TaskManagerFor1C
 * https://github.com/savely-krasovsky/escobar/tree/master
+* https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Migration-Guide
